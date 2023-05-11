@@ -367,3 +367,26 @@ footer p{
     text-align: center;
     color: #f2f2f2;
 }
+
+
+
+/* Mobile View */
+@media (max-width:768px){
+    .logo{
+        left: 50px;
+    }
+    .searcharea{
+        right: 80px;
+    }
+    .iconarea{
+        left: 48px;
+        top: 36%;
+    }
+    .section1button{
+        top: 30%;
+        left: 85%;
+    }
+    .section1{
+        top: 75%;
+    }
+}
